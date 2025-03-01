@@ -12,7 +12,8 @@ planner with AI assistant, langgraph와 벡터 데이터베이스를 이용한 �
 - Llama3
 - prompt engineering
 
-
+- sveltekit
+- python3 for langgraph api
 
 
 
